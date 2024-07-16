@@ -72,7 +72,3 @@ resource "azurerm_private_endpoint" "privateendpoint" {
     subresource_names              = ["blob"]
   }
 
-}
-
-
-Edited code 12
