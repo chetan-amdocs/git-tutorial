@@ -75,3 +75,4 @@ resource "azurerm_private_endpoint" "privateendpoint" {
 }
 
 
+Edited code 12
